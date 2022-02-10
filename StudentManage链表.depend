@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1593313692 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\delete.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593309196 d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\stu.h
+
+1593312724 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\file.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1594118872 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\hello.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593310059 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\input.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1594118924 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593314991 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\modify.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stu.h"
+
+1593309988 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\output.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1594126630 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593283504 source:d:\users\c语言\瑞格\高级语言程序设计\studentmanage链表\search.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1625100344 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\delete.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593309196 d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\stu.h
+
+1625100373 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\file.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1594118872 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\hello.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593310059 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\input.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1625100389 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593314991 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\modify.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stu.h"
+
+1593309988 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\output.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1593283504 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\search.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
+1594126630 source:d:\users\codeblocks\瑞格\高级语言程序设计\studentmanage链表\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"stu.h"
+
